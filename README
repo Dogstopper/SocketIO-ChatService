@@ -1,0 +1,3 @@
+A simple chat server in Node.JS that shows how to use Socket.IO. This will be used as a template project for others that I will do.
+
+Thanks http://socket.io/get-started/chat/
